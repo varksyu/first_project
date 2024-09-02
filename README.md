@@ -4,4 +4,3 @@ bye
 секретная инфа меняем README
 
 change
-change
